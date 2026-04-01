@@ -1,0 +1,10 @@
+# Web Scraper de Imóveis - Martinelli 🏠
+
+Este projeto é um script de automação em Python que utiliza **Selenium** para coletar dados de imóveis diretamente do site da Imobiliária Martinelli e organizá-los em uma planilha Excel.
+
+---
+
+## 🚀 Funcionalidades
+* **Navegação Automática:** Acessa o site e filtra os resultados de busca.
+* **Extração de Dados:** Coleta preços e links dos imóveis disponíveis.
+* **Organização em Excel:** Salva as informações com data e hora em uma planilha `.xlsx`.
